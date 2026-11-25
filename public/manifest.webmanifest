@@ -1,0 +1,16 @@
+{
+  "name": "VenueTern",
+  "short_name": "VenueTern",
+  "description": "AI event operations software that predicts attendance patterns and recommends staffing, room allocation and service capacity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120a18",
+  "theme_color": "#120a18",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
