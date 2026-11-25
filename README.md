@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for VenueTern.
 - Industry: Events Services, Hospitality, Business Intelligence
 - Founder: Tosin Adegoke (Founder & CEO)
 - Co-founder: Miracle Okoro (Co-founder & CTO)
-- Contact: tosin@venuetern.top
+- Contact: tosin@venuetern.site
 - Business model: Subscriptions per venue
 
 ## Stack

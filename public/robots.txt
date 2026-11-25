@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://venuetern.top/sitemap.xml
+Sitemap: https://venuetern.site/sitemap.xml
